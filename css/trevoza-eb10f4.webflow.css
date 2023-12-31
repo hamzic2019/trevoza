@@ -775,6 +775,25 @@ figcaption {
   font-weight: 700;
 }
 
+.rich-text-block-2 {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
+.paragraph-5 {
+  font-family: Montserrat, sans-serif;
+  font-size: 22px;
+}
+
+.heading-8, .heading-9, .heading-10, .heading-11 {
+  font-size: 35px;
+  text-decoration: underline;
+}
+
+.heading-12, .heading-13, .heading-14, .heading-15, .heading-16, .heading-17, .heading-18, .heading-19, .heading-20 {
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 991px) {
   .navigation-link {
     text-align: center;
